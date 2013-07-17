@@ -1,5 +1,9 @@
-// prefs.js Template
-// Petr Hosek(http://petrhosek.name)
+//   Name:       3024 night
+//   Author:     Jan T. Sott (http://github.com/idleberg)
+
+//   3024 color scheme by Jan T. Sott (https://github.com/idleberg)
+//   prefs.js Template by Petr Hosek(http://petrhosek.name)
+//   Built with a modified version of Base16 Builder by Chris Kempson (https://github.com/chriskempson)
 
 term_.prefs_.set('background-color', '#090300');
 term_.prefs_.set('foreground-color', '#a5a2a2');
